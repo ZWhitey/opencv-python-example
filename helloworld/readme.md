@@ -3,8 +3,8 @@
 讀取、顯示圖片
 
 ## 結果
-  ![color](http://baidu.com/pic/doge.png)
-  ![gary](http://baidu.com/pic/doge.png)
+  ![color](https://github.com/ZWhitey/opencv-python-example/blob/master/helloworld/img/color.jpg)
+  ![gary](https://github.com/ZWhitey/opencv-python-example/blob/master/helloworld/img/gary.jpg)
 
 
 ## Function
