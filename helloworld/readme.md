@@ -1,6 +1,6 @@
 # OpenCV Hello World
 
-讀取、顯示圖片
+讀取、顯示、儲存圖片
 
 ## 結果
   ![color](https://github.com/ZWhitey/opencv-python-example/blob/master/helloworld/img/color.jpg)
