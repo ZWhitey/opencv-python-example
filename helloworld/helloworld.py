@@ -9,6 +9,7 @@ def main():
         cv2.imshow('OpenCV Color Image', raw_img) #顯示彩色圖片
         cv2.imshow('OpenCV Gray Image', gray_img) #顯示灰階圖片
         if cv2.waitKey(1) == ord('q'): #按q關閉視窗
+            cv2.imwrite('gary.jpg', gray_img) #儲存灰階圖片
             break
 
 if __name__ == "__main__":

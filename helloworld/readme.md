@@ -2,6 +2,12 @@
 
 讀取、顯示圖片
 
+## 結果
+  ![color](http://baidu.com/pic/doge.png)
+  ![gary](http://baidu.com/pic/doge.png)
+
+
+## Function
 * cv2.imread(filename, flag)
   * filename 圖檔路徑 (str)
   * flag 讀檔模式
@@ -14,3 +20,6 @@
 * cv2.waitKey(delay)
   * delay 等待按鍵時間(毫秒) (int)
   * return 按下按鍵的 ASCII Code
+* cv2.write(filename, mat)
+  * filename 儲存檔名路徑 (str)
+  * mat 儲存的圖片 (np.array)
